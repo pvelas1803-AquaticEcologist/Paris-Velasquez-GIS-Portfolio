@@ -1,0 +1,32 @@
+---
+---
+@import "{{ site.theme }}";
+/* Header background */
+.page-header {
+  background-color: #2f5d50; /* deep ecological green */
+}
+
+/* Header title */
+.project-name {
+  color: #f4f7f6;
+}
+
+/* Header subtitle */
+.project-tagline {
+  color: #cfe5df;
+}
+
+/* Buttons */
+.btn {
+  background-color: #6b8f71;
+  color: #ffffff;
+}
+
+/* Links */
+a {
+  color: #3a7d6b;
+}
+
+a:hover {
+  color: #2f5d50;
+}
