@@ -50,9 +50,7 @@ https://www.gvsu.edu/wri/steinman/church-lake-microplastic-biofilms-97.htm
 Velasquez, P. M., Green, L., Scott, J., & Steinman, A. D. (2025). *Characterization of Microplastics and 6-PPD Quinone in a Suburban Lake–Tributary System Impacted by Highway Runoff.* **Microplastics, 4**(4), 91.  
 https://doi.org/10.3390/microplastics4040091
 
----
-
-## Works in Progress
+# Works in Progress
 
 - Manuscript in preparation examining additional aspects of microplastic biofilm development and ecological interactions within freshwater systems.
 
