@@ -1,5 +1,5 @@
 # Paris Velasquez
-### Ecologist | GIS | Field Research
+### About | Education | Research & Publications | GIS Projects & Analysis | Field Research | Skill & Tools | Contact
 
 ---
 
@@ -19,6 +19,7 @@ Concentration in Aquatic Ecology
 Grand Valley State University  
 
 Graduate research assistant and field technician with a focus on freshwater ecosystems, aquatic restoration, ecological monitoring, and applied ecological research. Training emphasized field-based data collection, ecological analysis, and the application of research findings to management and restoration efforts.
+
 **Graduate Certificate in Geographic Information Systems (GIS)**  
 Michigan State University  
 
