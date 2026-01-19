@@ -3,7 +3,6 @@
 
 ---
 
-## About
 # About Me
 I am an ecologist with experience in GIS-based spatial analysis and field research, with a focus on conservation, restoration, and ecological monitoring. My work centers on understanding ecological patterns and translating data into information that supports environmental decision-making.
 I hold a Master’s degree in Aquatic Ecology and have applied GIS tools to analyze natural communities, assess ecosystem function, and support management and restoration planning. My interests include integrating field-collected ecological data with spatial analysis to understand landscape-level and site-specific processes.
@@ -98,7 +97,7 @@ I have extensive field experience across freshwater, wetland, and terrestrial sy
 
 ---
 
-### Selected Field Research Projects
+###  Field Research Projects
 
 - **Utqiagvik, Alaska:** Water and zooplankton sampling in permafrost pond ecosystems to assess nutrient limitation and climate-driven ecological change as part of a long-term research program.
 - **Indio Mountains Research Station (TX):** Zooplankton sampling in manmade ponds and wildlife tracking (diamondback snakes) to support doctoral research.
