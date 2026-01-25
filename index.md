@@ -77,13 +77,12 @@ Research funding for this project was provided by the Allen and Helen Hunting Re
 
 ---
 
-## GIS Projects & Analysis {#projects}
+## GIS Projects & Analysis {#gis}
 _Write this later_
 
 ---
 
-## Field Research & Ecological Monitoring
-
+## Field Research & Ecological Monitoring {#field}
 I have extensive field experience across freshwater, wetland, and terrestrial systems, supporting ecological research, long-term monitoring, and applied environmental assessment. My field work spans a range of ecological contexts, from Arctic permafrost ponds to urban and suburban lake and watershed systems, and frequently integrates field-collected data with spatial analysis.
 
 ---
