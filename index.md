@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 [About](#about) ·
 [Education](#education) ·
 [Publications](#publications) ·
@@ -6,15 +8,6 @@
 [Skills](#skills) ·
 [Contact](#contact)
 
-<section class="hero">
-  <div class="hero-text">
-    <h1>Paris Velasquez</h1>
-    <p>Ecology · GIS · Field Research Portfolio</p>
-  </div>
-  <div class="hero-image">
-    <img src="assets/profile.jpg" alt="Paris Velasquez">
-  </div>
-</section>
 
 ---
 
