@@ -1,3 +1,13 @@
+[About](#about) ·
+[Education](#education) ·
+[Publications](#publications) ·
+[GIS Projects](#gis) ·
+[Field Work](#field) ·
+[Skills](#skills) ·
+[Contact](#contact)
+
+---
+
 # Paris Velasquez
 
 
