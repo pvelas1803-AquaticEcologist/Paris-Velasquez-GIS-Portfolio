@@ -8,3 +8,10 @@
   </div>
 </section>
 
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+include:
+  - assets
+
+
