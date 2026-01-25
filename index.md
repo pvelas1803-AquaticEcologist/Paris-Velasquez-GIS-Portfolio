@@ -1,9 +1,9 @@
 # Paris Velasquez
-### About | Education | Research & Publications | GIS Projects & Analysis | Field Research | Skill & Tools | Contact
+
 
 ---
 
-# About Me
+# About Me {#about}
 I am an ecologist with experience in GIS-based spatial analysis and field research, with a focus on conservation, restoration, and ecological monitoring. My work centers on understanding ecological patterns and translating data into information that supports environmental decision-making.
 I hold a Master’s degree in Aquatic Ecology and have applied GIS tools to analyze natural communities, assess ecosystem function, and support management and restoration planning. My interests include integrating field-collected ecological data with spatial analysis to understand landscape-level and site-specific processes.
 
