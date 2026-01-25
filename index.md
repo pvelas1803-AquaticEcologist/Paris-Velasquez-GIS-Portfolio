@@ -12,7 +12,7 @@ This portfolio highlights selected GIS projects and field research experiences t
 
 ---
 
-## Education
+## Education {#education}
 
 **M.S. Biology**  
 Concentration in Aquatic Ecology  
@@ -33,7 +33,7 @@ Undergraduate research experience in an aquatic ecology laboratory examining nut
 
 ---
 
-## Research & Publications
+## Research & Publications {#publications}
 
 ## Graduate Research: Microplastics in Freshwater Ecosystems
 
@@ -64,7 +64,7 @@ Research funding for this project was provided by the Allen and Helen Hunting Re
 
 ---
 
-## GIS Projects & Analysis
+## GIS Projects & Analysis {#projects}
 _Write this later_
 
 ---
@@ -128,7 +128,7 @@ Field data collected through water sampling, biological surveys, and GPS-based o
 
 ---
 
-## Skills & Tools
+## Skills & Tools {#skills}
 ### Geographic Information Systems (GIS)
 - Spatial data management and analysis  
 - Cartographic design and map communication for technical and public audiences  
@@ -156,4 +156,4 @@ Field data collected through water sampling, biological surveys, and GPS-based o
 
 ---
 
-## Let’s Connect
+## Let’s Connect {#contact}
