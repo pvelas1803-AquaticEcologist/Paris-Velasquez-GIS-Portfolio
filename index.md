@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="assets/style.css">
 
-[About](#about) ·
+
+[About](#about-me) ·
 [Education](#education) ·
 [Publications](#publications) ·
 [GIS Projects](#gis) ·
@@ -16,7 +17,6 @@
 
 ---
 
-# About Me {#about}
 <div class="profile-container">
   <div class="profile-text">
     <h1>About Me</h1>
