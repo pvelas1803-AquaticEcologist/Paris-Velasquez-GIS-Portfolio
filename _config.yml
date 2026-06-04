@@ -8,7 +8,7 @@
   </div>
 </section>
 
-theme: jekyll-theme-cayman
+theme: 
 markdown: kramdown
 
 include:
