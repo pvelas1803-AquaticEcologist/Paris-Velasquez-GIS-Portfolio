@@ -17,11 +17,18 @@
 ---
 
 # About Me {#about}
-I am an ecologist with experience in GIS-based spatial analysis and field research, with a focus on conservation, restoration, and ecological monitoring. My work centers on understanding ecological patterns and translating data into information that supports environmental decision-making.
+<div class="profile-container">
+  <div class="profile-text">
+    <h1>About Me</h1>
+    <p> I am an ecologist with experience in GIS-based spatial analysis and field research, with a focus on conservation, restoration, and ecological monitoring. My work centers on understanding ecological patterns and translating data into information that supports environmental decision-making.
 I hold a Master’s degree in Aquatic Ecology and have applied GIS tools to analyze natural communities, assess ecosystem function, and support management and restoration planning. My interests include integrating field-collected ecological data with spatial analysis to understand landscape-level and site-specific processes.
 
 My experience includes ecological field surveys, GPS-based data collection, spatial analysis in ArcGIS Pro, and the development of clear, communicative maps and reports. Additional field experience, including aquatic monitoring and water sampling, is described in the Field Research section of this portfolio.
-This portfolio highlights selected GIS projects and field research experiences that reflect my interdisciplinary approach and ongoing professional development.
+This portfolio highlights selected GIS projects and field research experiences that reflect my interdisciplinary approach and ongoing professional development..</p>
+  </div>
+  <img src="20190723_101354.jpg" alt="My Photo" class="profile-pic">
+</div>
+
 
 ---
 
